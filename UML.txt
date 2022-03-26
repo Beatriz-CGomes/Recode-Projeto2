@@ -1,0 +1,15 @@
+                          Agência 
+___________________________________________________________________________
+- menu [] : String
+- nome [] : String
+- data[] : String
+- cpf [] : String
+- rg [] :  String
+- destino [] :  String
+- datad [] :  String
+- opcao [] :  int
+
+___________________________________________________________________________
++ menu(): void
++ cadastrar(): void
++ consultar(): void
